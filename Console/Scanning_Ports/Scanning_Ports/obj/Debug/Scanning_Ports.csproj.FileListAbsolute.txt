@@ -1,0 +1,10 @@
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\bin\Debug\Scanning_Ports.exe.config
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\bin\Debug\Scanning_Ports.exe
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\bin\Debug\Scanning_Ports.pdb
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\obj\Debug\Scanning_Ports.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\obj\Debug\Scanning_Ports.PortsScan.resources
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\obj\Debug\Scanning_Ports.Properties.Resources.resources
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\obj\Debug\Scanning_Ports.csproj.GenerateResource.cache
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\obj\Debug\Scanning_Ports.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\obj\Debug\Scanning_Ports.exe
+C:\Mac\Home\Desktop\C#_.NET\Scanning_Ports\Scanning_Ports\obj\Debug\Scanning_Ports.pdb
