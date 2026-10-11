@@ -11,7 +11,10 @@
 ### Console
 
 - [SocketClientServer](./Console/SocketClientServer)
-
+- [LogStandardizer](./Console/LogStandardizer)
+- [Scanning_Ports](./Console/Scanning_Ports)
+- [StringCompression](./Console/StringCompression)
+- [ThreadSafeServer](./Console/ThreadSafeServer)
 ### Desktop
 
 
@@ -20,4 +23,4 @@
 
 - C#
 - .NET
-- ...
+- ASP.NET Core
